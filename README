@@ -1,0 +1,10 @@
+This script is a workaround to the 50-character limit using lifehacker's G+ to FB trick. Only works with Mac mail for obvious reasons.
+
+Change the mobileaddress@m.facebook.com to the one on the Facebook mobile site:
+https://www.facebook.com/mobile/
+
+Open mac mail and configure a mail rule to trigger the applescript. I suggest making a brand-new email address and checking that the email comes from google, and marking it as read afterwards.
+
+Add the email address to a circle. Check 'Notify about this post' when posting to Google+.
+
+
